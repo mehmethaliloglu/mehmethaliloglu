@@ -9,7 +9,7 @@
 </p>
 
 ### My Linkedin Account
-[![Linkedin Badge](https://img.shields.io/badge/utkuglsvn-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmethaliloglu/)
+[![Linkedin Badge](https://img.shields.io/badge/mehmethaliloglu-follow%20on%20linkedin-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mehmethaliloglu/)
 
 ### My Kaggle Account
 [@haliloglumehmet ](https://www.kaggle.com/haliloglumehmet)
