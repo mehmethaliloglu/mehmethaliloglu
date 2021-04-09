@@ -1,4 +1,4 @@
-## Hi, I'm Mehmet 👋👨‍💻
+## Hi there, I'm Mehmet 👋👨‍💻
 #### I am a computer engineering student at Firat University.
 
 ### 📌 GitHub Stats And Top Languages
