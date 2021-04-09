@@ -4,7 +4,7 @@
 ### 📌 GitHub Stats And Top Languages
 
 <p float="center">
-  ![Github stats 2](https://github-readme-stats.vercel.app/api?username=mehmethaliloglu&show_icons=true&theme=radical)
+  <img  src="https://github-readme-stats.vercel.app/api?username=mehmethaliloglu&show_icons=true&count_private=true&hide=contribs,issues" alt="Mehmet's github stats" />
   <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmethaliloglu&layout=compact&hide=html,css" alt="My Top Langs" />
 </p>
 
